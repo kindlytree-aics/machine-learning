@@ -8,7 +8,7 @@
     - 选择最近时间的版本即可
     - 安装完成后一般当前的`base` env已经够用,可以根据需要去conda install相关的机器学习库
 
-### TODU
+### TODO
 - 基于Numpy实现机器学习算法
 - 算法视频内容优化
 
@@ -19,3 +19,4 @@
 ### Reference
 - https://zhuanlan.zhihu.com/p/345444342
 - https://github.com/ddbourgin/numpy-ml
+- https://machinelearningmastery.com/start-here/

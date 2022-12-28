@@ -1,3 +1,9 @@
 todo-*
 *.gif
 Untitled.ipynb
+*.tar
+dataset
+*.rar
+*txt
+*.csv
+*.pyc

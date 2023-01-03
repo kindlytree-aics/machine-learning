@@ -1,4 +1,4 @@
-* FAQ
+# FAQ
 
 ## Environment
 
@@ -21,7 +21,6 @@
 * 分类模型的性能度量：[Python机器学习如何正确评估分类模型的准确性？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573591611/answer/2825268164)
 * 混淆矩阵的画法：[深度学习中如何画一个具有40个类的混淆矩阵？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/569173057/answer/2817684250)
 
-
 ## CNN
 
 * CNN的特性：[如何解读 CNN 和传统神经网络的区别？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/575461202/answer/2825845986)
@@ -41,10 +40,13 @@
 * 非正态分布数据变换：[非正态分布的数据怎么转换为正态分布？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/372019236/answer/2235639734)
 * 为什么要对数据进行降维和压缩：[为什么要对数据做降维和压缩？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/557920195/answer/2703781485)
 
-
 ## Clustering Algorithm
 
 * KMeans算法： [如何解读机器学习的聚类分析 Kmeans 算法？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/574234701/answer/2817134561)
 * 无监督学习怎么做超参选择： [无监督学习怎么做超参选择？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573848676/answer/2812123529)
   * 可以再加一个DBSCAN算法的超参选择的说明
-  * 的
+
+## Trees
+
+* Bootstrap采样方法：[统计学中，Bootstrap的意义是什么？从观测样本中重抽样比直接使用观测样本好在哪里？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576318634/answer/2827057355)
+* 决策树有哪些分类：[数据挖掘干货总结（九）-- 决策树分类 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/502595209)

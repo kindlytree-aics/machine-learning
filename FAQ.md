@@ -50,3 +50,7 @@
 
 * Bootstrap采样方法：[统计学中，Bootstrap的意义是什么？从观测样本中重抽样比直接使用观测样本好在哪里？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576318634/answer/2827057355)
 * 决策树有哪些分类：[数据挖掘干货总结（九）-- 决策树分类 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/502595209)
+
+## Optimization Algorithms
+
+* 怎么解决梯度爆炸问题： [如何确定是否出现神经网络梯度爆炸？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573856383/answer/2828372514)

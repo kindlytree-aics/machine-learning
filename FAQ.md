@@ -6,6 +6,12 @@
   - https://blog.csdn.net/m0_56448912/article/details/127803698
   - 手动安装scikit_learn-1.2.dev0以上版本，[下载链接](https://pypi.anaconda.org/scipy-wheels-nightly/simple/scikit-learn/)
 
+## Classification and Regression
+
+* 分类和回归问题的汇总总结
+  * 问题1，分类和回归问题的关系 [回归问题 广义上是不是也是 分类问题？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576625500/answer/2828780085)
+  * 
+
 ## Cost Function（objective fuction，loss）
 
 * 分类中为什么用交叉熵损失函数：[分类问题中为什么用交叉熵代替 MSE？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/562388855/answer/2731545250)
@@ -43,6 +49,7 @@
 ## Clustering Algorithm
 
 * KMeans算法： [如何解读机器学习的聚类分析 Kmeans 算法？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/574234701/answer/2817134561)
+* Hierarchical Clustering方法的示例：[1、图1的聚类结果及含义？2、如果将聚类结果分为5类，结果是？3、最终聚类结果设置为多少类合适？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576568363/answer/2828887729)
 * 无监督学习怎么做超参选择： [无监督学习怎么做超参选择？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573848676/answer/2812123529)
   * 可以再加一个DBSCAN算法的超参选择的说明
 

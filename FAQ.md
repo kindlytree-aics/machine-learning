@@ -54,7 +54,9 @@
 * 如何进行数据归一化：[python 如何实现归一化？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/575576083/answer/2823859483)
 * 特征归一化的作用：[特征不归一化有什么危害？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/559345965/answer/2720599228)
 * PCA的几何解释：[PCA降维后如何与原来的对应，哪几个特征对应降维后的特征？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/571894023/answer/2820040847)
-* 非正态分布数据变换：[非正态分布的数据怎么转换为正态分布？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/372019236/answer/2235639734)
+* 非正态分布数据变换：
+  * [非正态分布的数据怎么转换为正态分布？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/372019236/answer/2235639734)
+  * 为什么要做正态分布的变换以及具体有哪些方法：[(1 条消息) 如何计算正态分布的众数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576588835/answer/2830362657)
 * 为什么要对数据进行降维和压缩：[为什么要对数据做降维和压缩？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/557920195/answer/2703781485)
 
 ## Clustering Algorithm

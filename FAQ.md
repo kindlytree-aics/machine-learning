@@ -22,17 +22,28 @@
 * 模型参数正则化（规范化）：[如何理解机器学习中的正则化？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/555430093/answer/2691135856)
 * 余弦距离与欧式距离：[计算机视觉为什么要使用余弦距离而不是欧式距离？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/554734182/answer/2690916458)
 
-## Qualit metric
+## Quality metric
 
 * 分类模型的性能度量：[Python机器学习如何正确评估分类模型的准确性？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573591611/answer/2825268164)
 * 混淆矩阵的画法：[深度学习中如何画一个具有40个类的混淆矩阵？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/569173057/answer/2817684250)
 
-## CNN
+## Neural Network
+
+### General
+
+* 神经网络拟合函数的几何直观示例：[为什么神经网络能拟合出任何函数？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/38229942)
+* 神经网络为什么可以拟合任意函数：[神经网络为什么可以（理论上）拟合任何函数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/268384579/answer/484612032)
+
+### CNN
 
 * CNN的特性：[如何解读 CNN 和传统神经网络的区别？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/575461202/answer/2825845986)
 * 如何理解CNN中的通道：[如何理解 cnn 中的通道？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/575460913/answer/2824160988)
 * 神经网络结构可视化：[神经网络的结构图的绘制有什么合适的软件推荐？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/574891317/answer/2817678890)
 * 1*1卷积核的作用：[卷积神经网络中的 1x1 卷积核有什么作用？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/555176370/answer/2710720657)
+
+### Transformer
+
+* ViT
 
 ## Reinforcement Learning
 

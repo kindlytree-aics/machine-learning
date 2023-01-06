@@ -12,7 +12,7 @@
   * 问题1，分类和回归问题的关系 [回归问题 广义上是不是也是 分类问题？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576625500/answer/2828780085)
   * 
 
-## Cost Function（objective fuction，loss）
+## Cost Function（objective fuction，loss，error surface）
 
 * 分类中为什么用交叉熵损失函数：[分类问题中为什么用交叉熵代替 MSE？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/562388855/answer/2731545250)
 * 交叉熵和KL散度的关系：[为什么交叉熵和 KL 散度在作为损失函数时是近似相等的？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/559808909/answer/2717475457)
@@ -33,6 +33,11 @@
 
 * 神经网络拟合函数的几何直观示例：[为什么神经网络能拟合出任何函数？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/38229942)
 * 神经网络为什么可以拟合任意函数：[神经网络为什么可以（理论上）拟合任何函数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/268384579/answer/484612032)
+* 神经网络的可解释性：
+  * [函数拟合的视角](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html)
+  * [深度学习在图像应用上的直观解释](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+  * [神经网络功能可视化](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
 
 ### CNN
 
@@ -58,6 +63,7 @@
   * [非正态分布的数据怎么转换为正态分布？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/372019236/answer/2235639734)
   * 为什么要做正态分布的变换以及具体有哪些方法：[(1 条消息) 如何计算正态分布的众数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576588835/answer/2830362657)
 * 为什么要对数据进行降维和压缩：[为什么要对数据做降维和压缩？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/557920195/answer/2703781485)
+* 机器学习是如何做数据预处理的： [知乎问题](https://www.zhihu.com/question/574928730/answer/2833012100)
 
 ## Clustering Algorithm
 

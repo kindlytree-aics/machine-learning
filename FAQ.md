@@ -10,7 +10,7 @@
 
 * 分类和回归问题的汇总总结
   * 问题1，分类和回归问题的关系 [回归问题 广义上是不是也是 分类问题？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576625500/answer/2828780085)
-  * 
+  * softmax和sigmoid对于分类问题的对比及效果可视化：[RetinaNet 为什么用sigmoid? - 知乎 (zhihu.com)](https://www.zhihu.com/question/576525745/answer/2837596942)
 
 ## Cost Function（objective fuction，loss，error surface）
 
@@ -31,13 +31,15 @@
 
 ### General
 
+- 反向传播算法：[Unsupervised Feature Learning and Deep Learning Tutorial (stanford.edu)](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
+
 * 神经网络拟合函数的几何直观示例：[为什么神经网络能拟合出任何函数？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/38229942)
 * 神经网络为什么可以拟合任意函数：[神经网络为什么可以（理论上）拟合任何函数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/268384579/answer/484612032)
+* [为何深度学习采用神经网络这种层次网络结构？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/566839873/answer/2836531708)
 * 神经网络的可解释性：
   * [函数拟合的视角](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html)
-  * [深度学习在图像应用上的直观解释](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+  * [(61条消息) 如何理解卷积神经网络（An Intuitive Explanation of Convolutional Neural Networks）_开曼Cayman的博客-CSDN博客](https://blog.csdn.net/qq_44490994/article/details/118724839)
   * [神经网络功能可视化](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
-
 
 ### CNN
 
@@ -76,6 +78,7 @@
 
 * Bootstrap采样方法：[统计学中，Bootstrap的意义是什么？从观测样本中重抽样比直接使用观测样本好在哪里？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576318634/answer/2827057355)
 * 决策树有哪些分类：[数据挖掘干货总结（九）-- 决策树分类 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/502595209)
+* 随机森林的evaluation：[随机森林训练集能等于测试集吗? - 知乎 (zhihu.com)](https://www.zhihu.com/question/573482490/answer/2836356780)
 
 ## Optimization Algorithms
 

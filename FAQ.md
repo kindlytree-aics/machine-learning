@@ -6,6 +6,10 @@
   - https://blog.csdn.net/m0_56448912/article/details/127803698
   - 手动安装scikit_learn-1.2.dev0以上版本，[下载链接](https://pypi.anaconda.org/scipy-wheels-nightly/simple/scikit-learn/)
 
+## General
+
+* 机器学习的分类系统：[机器学习的分类有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/577022227/answer/2844669853)
+
 ## Classification and Regression
 
 * 分类和回归问题的汇总总结
@@ -32,6 +36,7 @@
 ### General
 
 - 反向传播算法：[Unsupervised Feature Learning and Deep Learning Tutorial (stanford.edu)](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
+- 反向传播算法的复合函数的链式规则：[pytorch 如何根据底层梯度计算上层梯度? - 知乎 (zhihu.com)](https://www.zhihu.com/question/568604728/answer/2848515612)
 
 * 神经网络拟合函数的几何直观示例：[为什么神经网络能拟合出任何函数？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/38229942)
 * 神经网络为什么可以拟合任意函数：[神经网络为什么可以（理论上）拟合任何函数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/268384579/answer/484612032)
@@ -48,6 +53,10 @@
 * 神经网络结构可视化：[神经网络的结构图的绘制有什么合适的软件推荐？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/574891317/answer/2817678890)
 * 1*1卷积核的作用：[卷积神经网络中的 1x1 卷积核有什么作用？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/555176370/answer/2710720657)
 
+### RNN
+
+* LSTM网络的相关学习路线：[研一刚入学，从未接触过神经网络，python也是才开始学，现在导师要我做LSTM，我应该去学什么？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/492854858/answer/2776129718)
+
 ### Transformer
 
 * ViT
@@ -56,7 +65,7 @@
 
 * MDP中S，A的相关概念：[强化学习中的S×A什么意思啊？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/555097104/answer/2697797038)
 
-## Feature Engineering
+## Feature Engineering(Data augumentation)
 
 * 如何进行数据归一化：[python 如何实现归一化？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/575576083/answer/2823859483)
 * 特征归一化的作用：[特征不归一化有什么危害？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/559345965/answer/2720599228)
@@ -66,6 +75,7 @@
   * 为什么要做正态分布的变换以及具体有哪些方法：[(1 条消息) 如何计算正态分布的众数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576588835/answer/2830362657)
 * 为什么要对数据进行降维和压缩：[为什么要对数据做降维和压缩？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/557920195/answer/2703781485)
 * 机器学习是如何做数据预处理的： [知乎问题](https://www.zhihu.com/question/574928730/answer/2833012100)
+* Tencrop数据增强：[Pytorch中的transforms.TenCrop - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/433165698)
 
 ## Clustering Algorithm
 

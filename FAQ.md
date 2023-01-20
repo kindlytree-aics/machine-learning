@@ -16,6 +16,10 @@
   * 问题1，分类和回归问题的关系 [回归问题 广义上是不是也是 分类问题？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576625500/answer/2828780085)
   * softmax和sigmoid对于分类问题的对比及效果可视化：[RetinaNet 为什么用sigmoid? - 知乎 (zhihu.com)](https://www.zhihu.com/question/576525745/answer/2837596942)
 
+### 线性分类器
+
+* SVM：
+
 ## Cost Function（objective fuction，loss，error surface）
 
 * 分类中为什么用交叉熵损失函数：[分类问题中为什么用交叉熵代替 MSE？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/562388855/answer/2731545250)
@@ -37,6 +41,7 @@
 
 - 反向传播算法：[Unsupervised Feature Learning and Deep Learning Tutorial (stanford.edu)](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
 - 反向传播算法的复合函数的链式规则：[pytorch 如何根据底层梯度计算上层梯度? - 知乎 (zhihu.com)](https://www.zhihu.com/question/568604728/answer/2848515612)
+- 神经网络的学习路线：[入门机器学习可以直接学神经网络吗？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/476567256/answer/2852713847)
 
 * 神经网络拟合函数的几何直观示例：[为什么神经网络能拟合出任何函数？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/38229942)
 * 神经网络为什么可以拟合任意函数：[神经网络为什么可以（理论上）拟合任何函数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/268384579/answer/484612032)
@@ -56,6 +61,7 @@
 ### RNN
 
 * LSTM网络的相关学习路线：[研一刚入学，从未接触过神经网络，python也是才开始学，现在导师要我做LSTM，我应该去学什么？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/492854858/answer/2776129718)
+* LSTM的计算方式：[(1 条消息) LSTM可以提取时间序列特征，具体的实现过程的细节是怎么样的。? - 知乎 (zhihu.com)](https://www.zhihu.com/question/575080897/answer/2853931860)
 
 ### Transformer
 
@@ -93,3 +99,4 @@
 ## Optimization Algorithms
 
 * 怎么解决梯度爆炸问题： [如何确定是否出现神经网络梯度爆炸？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573856383/answer/2828372514)
+* 正则化项（规范化项，regularization）：[L1范数和L2范数有什么区别？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/574589430/answer/2849557497)

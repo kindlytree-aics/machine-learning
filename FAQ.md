@@ -15,6 +15,7 @@
 * 分类和回归问题的汇总总结
   * 问题1，分类和回归问题的关系 [回归问题 广义上是不是也是 分类问题？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576625500/answer/2828780085)
   * softmax和sigmoid对于分类问题的对比及效果可视化：[RetinaNet 为什么用sigmoid? - 知乎 (zhihu.com)](https://www.zhihu.com/question/576525745/answer/2837596942)
+  * sigmoid为什么能代表概率：[通过逻辑回归的 sigmoid 函数把线性回归转化到 [0, 1] 之间，这个值为什么可以代表概率？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/41647192/answer/2854827224)
 
 ### 线性分类器
 
@@ -100,3 +101,4 @@
 
 * 怎么解决梯度爆炸问题： [如何确定是否出现神经网络梯度爆炸？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573856383/answer/2828372514)
 * 正则化项（规范化项，regularization）：[L1范数和L2范数有什么区别？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/574589430/answer/2849557497)
+* 学习率和损失函数的关系：[在损失函数前面乘以0.5，是不是相当于学习率减半？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576927319/answer/2856105458)

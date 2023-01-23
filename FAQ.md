@@ -82,7 +82,8 @@
   * 为什么要做正态分布的变换以及具体有哪些方法：[(1 条消息) 如何计算正态分布的众数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576588835/answer/2830362657)
 * 为什么要对数据进行降维和压缩：[为什么要对数据做降维和压缩？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/557920195/answer/2703781485)
 * 机器学习是如何做数据预处理的： [知乎问题](https://www.zhihu.com/question/574928730/answer/2833012100)
-* Tencrop数据增强：[Pytorch中的transforms.TenCrop - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/433165698)
+* Tencrop数据增强：[Pytorch中的transforms.TenCrop - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/433165698)\
+* 核方法
 
 ## Clustering Algorithm
 

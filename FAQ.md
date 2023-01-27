@@ -13,7 +13,8 @@
 ## Classification and Regression
 
 * 分类和回归问题的汇总总结
-  * 问题1，分类和回归问题的关系 [回归问题 广义上是不是也是 分类问题？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576625500/answer/2828780085)
+  * 线性回归的问题有哪些？[线性回归模型有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/579151443/answer/2858496953)
+  * 分类和回归问题的关系 [回归问题 广义上是不是也是 分类问题？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576625500/answer/2828780085)
   * softmax和sigmoid对于分类问题的对比及效果可视化：[RetinaNet 为什么用sigmoid? - 知乎 (zhihu.com)](https://www.zhihu.com/question/576525745/answer/2837596942)
   * sigmoid为什么能代表概率：[通过逻辑回归的 sigmoid 函数把线性回归转化到 [0, 1] 之间，这个值为什么可以代表概率？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/41647192/answer/2854827224)
 
@@ -35,6 +36,8 @@
 
 * 分类模型的性能度量：[Python机器学习如何正确评估分类模型的准确性？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573591611/answer/2825268164)
 * 混淆矩阵的画法：[深度学习中如何画一个具有40个类的混淆矩阵？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/569173057/answer/2817684250)
+* AP和mAP以及AUC，precision/recall的相关定义：[小样本分类任务为什么都使用accuracy作为评价指标？为何都不使用 P R F1？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/577905496/answer/2861493787)
+* 目标检测指标：[如何解读目标检测指标？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/577375183/answer/2862818273)
 
 ## Neural Network
 
@@ -91,6 +94,7 @@
 * Hierarchical Clustering方法的示例：[1、图1的聚类结果及含义？2、如果将聚类结果分为5类，结果是？3、最终聚类结果设置为多少类合适？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/576568363/answer/2828887729)
 * 无监督学习怎么做超参选择： [无监督学习怎么做超参选择？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/573848676/answer/2812123529)
   * 可以再加一个DBSCAN算法的超参选择的说明
+* 目前主要流行的聚类算法有哪些：[目前流行和先进的聚类算法有哪些? - 知乎 (zhihu.com)](https://www.zhihu.com/question/494753171/answer/2861340070)
 
 ## Trees
 

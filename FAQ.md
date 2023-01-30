@@ -20,7 +20,7 @@
 
 ### 线性分类器
 
-* SVM：
+* SVM算法的基本思路和流程：[支持向量机（SVM）是什么意思？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/21094489/answer/2867702150)
 
 ## Cost Function（objective fuction，loss，error surface）
 
@@ -31,6 +31,7 @@
 * 分类问题与交叉熵损失函数：[分类问题为什么使用交叉熵损失函数？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/558686060/answer/2711219151)
 * 模型参数正则化（规范化）：[如何理解机器学习中的正则化？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/555430093/answer/2691135856)
 * 余弦距离与欧式距离：[计算机视觉为什么要使用余弦距离而不是欧式距离？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/554734182/answer/2690916458)
+* 信息量、熵、KL散度、交叉熵的定义：[kl 散度和交叉熵的区别有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/579887503/answer/2862869448)
 
 ## Quality metric
 

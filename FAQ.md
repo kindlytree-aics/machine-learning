@@ -88,6 +88,8 @@
 * 机器学习是如何做数据预处理的： [知乎问题](https://www.zhihu.com/question/574928730/answer/2833012100)
 * Tencrop数据增强：[Pytorch中的transforms.TenCrop - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/433165698)\
 * 核方法
+  - 核方法的示例以及为什么高斯核映射到无穷维度：https://www.zhihu.com/question/40049373/answer/2872938370
+
 
 ## Clustering Algorithm
 
